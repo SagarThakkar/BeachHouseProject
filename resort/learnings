@@ -1,0 +1,3 @@
+npx create-react-app resort
+npm install react-icons
+npm i react-router-dom --save
